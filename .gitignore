@@ -11,3 +11,8 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/StarterContent
+.vs/Section01/v15/ipch/AutoPCH/ba2d3e46848f46fe/GAMEMODEBASE.ipch
+.vs/Section01/v15/ipch/AutoPCH/de262e1d4fb27472/OPENDOOR.ipch
+.vs/Section01/v15/ipch/AutoPCH/e52d6cfed620947/POSITIONREPORT.ipch
+.vs/Section01/v15/Solution.VC.db-shm
+.vs/Section01/v15/Solution.VC.db-wal
